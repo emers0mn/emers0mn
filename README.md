@@ -1,7 +1,7 @@
-# Emerson Pereira dos Santos
+# Emerson Pereira dos Santos 😎
 ---
 ## Um pouco do Emerson
-Pt-br:
+Pt-br: 🇧🇷
 
 Eu tenho como maior paixão aprender, por onde eu passo tenho como meta desenvolver ainda mais as minhas habilidades. Sou bem extrovertido, mas quando tenho que dedicar o meu tempo para finalizar o trabalho proposto, eu não penso duas vezes antes de focar e buscar a conclusão. Sou ótimo trabalhando em equipe, por sempre ser o ponto neutro dos grupos, sempre busco meios criativos de cativar os membros do grupo a criar novas ideias a partir das divergências. Sempre escuto os Feedbacks que me oferecem, porque sei que isso só vai me ajudar a crescer, trazendo novamente em foco o meu prazer em aprender em primeiro lugar. 
 
@@ -10,7 +10,7 @@ Sou formado em Marketing, mas grande parte dos meus trabalhos está voltado com 
 
 
 
-Es:
+Es: 🇦🇷
 
 Mi mayor pasión es aprender, donde quiera que vaya busco desarrollar aún más mis habilidades. Soy bastante extrovertido, pero cuando tengo que dedicar mi tiempo para terminar el trabajo propuesto, no lo pienso dos veces antes de enfocarme y buscar la conclusión. Soy excelente para trabajar en equipo, ya que siempre soy el punto neutral de los grupos, siempre estoy buscando formas creativas de cautivar a los miembros del grupo para crear nuevas ideas a partir de las divergencias. Siempre escucho los comentarios que me ofrecen, porque sé que esto solo me ayudará a crecer, volviendo a enfocar mi placer de aprender en primer lugar.
 

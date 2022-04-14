@@ -9,14 +9,6 @@ Eu tenho como maior paixão aprender, por onde eu passo tenho como meta desenvol
 Sou formado em Marketing, mas grande parte dos meus trabalhos está voltado com o desenvolvimento das marcas e o design na Web Social. O que me fez começar a estudar programação, foi a vontade de aprender a colocar tudo o que desenho em prática com minhas próprias mãos.
 
 
-
-Es: 🇦🇷
-
-Mi mayor pasión es aprender, donde quiera que vaya busco desarrollar aún más mis habilidades. Soy bastante extrovertido, pero cuando tengo que dedicar mi tiempo para terminar el trabajo propuesto, no lo pienso dos veces antes de enfocarme y buscar la conclusión. Soy excelente para trabajar en equipo, ya que siempre soy el punto neutral de los grupos, siempre estoy buscando formas creativas de cautivar a los miembros del grupo para crear nuevas ideas a partir de las divergencias. Siempre escucho los comentarios que me ofrecen, porque sé que esto solo me ayudará a crecer, volviendo a enfocar mi placer de aprender en primer lugar.
-
-
-Soy licenciada en Marketing, pero la mayor parte de mi trabajo se centra en el desarrollo y design de marcas en la Web Social. Lo que me hizo empezar a estudiar programación fue el deseo de aprender a poner en práctica todo lo que diseño con mis propias manos.
-
 ### Minhas redes sociais
 [Instagram](https://www.instagram.com/emers0mn/)
 

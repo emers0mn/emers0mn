@@ -1,7 +1,6 @@
 # Emerson Pereira dos Santos 😎
 ---
-## Um pouco do Emerson
-Pt-br: 🇧🇷
+## A little about Emerson
 
 My greatest passion is learning, and wherever I go I aim to further develop my skills. I am very extroverted, but when I have to dedicate my time to finish the proposed work, I don't think twice before focusing and seeking completion. I am great working in teams, because I am always the neutral point in groups, I always look for creative ways to captivate group members to create new ideas out of disagreements. I always listen to the feedbacks that are offered to me, because I know that this will only help me grow, bringing back into focus my delight in learning in the first place.
 

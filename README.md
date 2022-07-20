@@ -3,13 +3,12 @@
 ## Um pouco do Emerson
 Pt-br: 🇧🇷
 
-Eu tenho como maior paixão aprender, por onde eu passo tenho como meta desenvolver ainda mais as minhas habilidades. Sou bem extrovertido, mas quando tenho que dedicar o meu tempo para finalizar o trabalho proposto, eu não penso duas vezes antes de focar e buscar a conclusão. Sou ótimo trabalhando em equipe, por sempre ser o ponto neutro dos grupos, sempre busco meios criativos de cativar os membros do grupo a criar novas ideias a partir das divergências. Sempre escuto os Feedbacks que me oferecem, porque sei que isso só vai me ajudar a crescer, trazendo novamente em foco o meu prazer em aprender em primeiro lugar. 
+My greatest passion is learning, and wherever I go I aim to further develop my skills. I am very extroverted, but when I have to dedicate my time to finish the proposed work, I don't think twice before focusing and seeking completion. I am great working in teams, because I am always the neutral point in groups, I always look for creative ways to captivate group members to create new ideas out of disagreements. I always listen to the feedbacks that are offered to me, because I know that this will only help me grow, bringing back into focus my delight in learning in the first place.
+
+I have a degree in Marketing, but most of my work is focused on brand development and social web design. What made me start studying programming was the desire to learn how to put everything I design into practice with my own hands.
 
 
-Sou formado em Marketing, mas grande parte dos meus trabalhos está voltado com o desenvolvimento das marcas e o design na Web Social. O que me fez começar a estudar programação, foi a vontade de aprender a colocar tudo o que desenho em prática com minhas próprias mãos.
-
-
-### Minhas redes sociais
+### My social media
 [Instagram](https://www.instagram.com/emers0mn/)
 
 
